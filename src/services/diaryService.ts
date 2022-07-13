@@ -3,8 +3,6 @@ import diaries from "../../data/diaries";
 import {
   NonSensitiveDiaryEntry,
   DiaryEntry,
-  Weather,
-  Visibility,
   NewDiaryEntry,
 } from "../types";
 
